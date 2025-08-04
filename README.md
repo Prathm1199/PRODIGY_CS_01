@@ -1,7 +1,7 @@
-# PRODIGY_CS_01 - Caesar Cipher
+# Caesar Cipher
 
 ## 📌 Task Description
-This task implements a **Caesar Cipher** to encrypt and decrypt text by shifting letters by a fixed number.
+This implements a **Caesar Cipher** to encrypt and decrypt text by shifting letters by a fixed number.
 
 ## ⚙️ What I Learned
 - Basic concept of substitution ciphers.
